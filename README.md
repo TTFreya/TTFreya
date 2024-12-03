@@ -3,6 +3,7 @@
 - JavaScript Beginner
 - Pentesting / OffSec Beginner
 - HTML / CSS Beginner
+- SQL Intermediate
 - A high school senior looking to develop my IT repetoire!
 <!---
 TTFreya/TTFreya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
